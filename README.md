@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulai1sow
 - 👀 I’m interested in joining great communities 
-- 🌱 I’m currently learning expanding my python knowledge 
+- 🌱 I’m currently learning expanding my Javascript knowledge 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on Git
 
